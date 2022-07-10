@@ -1,0 +1,9 @@
+.myBtn {
+    padding: 5px 15px;
+    color: black;
+    font-size: 14px;
+    background: transparent;
+    border: 2px solid tomato;
+    cursor: pointer;
+    margin-left: 15px;
+}
